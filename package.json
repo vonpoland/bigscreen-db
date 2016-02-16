@@ -1,0 +1,24 @@
+{
+  "name": "bigscreen-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vonpoland/bigscreen-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vonpoland/bigscreen-db/issues"
+  },
+  "homepage": "https://github.com/vonpoland/bigscreen-db#readme",
+  "dependencies": {
+    "bigscreen-logger": "git+https://github.com/vonpoland/bigscreen-logger.git",
+    "config": "^1.19.0",
+    "mongoose": "^4.4.3"
+  }
+}
