@@ -1,6 +1,6 @@
 {
   "name": "bigscreen-db",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "",
   "main": "lib/db/connectionManager.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "dependencies": {
     "bigscreen-logger": "^1.0.1",
     "config": "^1.19.0",
+    "crypto": "0.0.3",
     "mongoose": "^4.4.3"
   }
 }
