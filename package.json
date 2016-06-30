@@ -1,6 +1,6 @@
 {
   "name": "bigscreen-db",
-  "version": "2.0.24",
+  "version": "2.0.25",
   "description": "",
   "main": "lib/db/connectionManager.js",
   "scripts": {
